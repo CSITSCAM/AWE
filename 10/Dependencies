@@ -1,0 +1,4 @@
+npm install @react-navigation/native --global 
+npm install @react-navigation/native-stack --global
+expo install react-native-screens
+expo install react-native-safe-area-context
