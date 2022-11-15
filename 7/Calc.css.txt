@@ -1,0 +1,25 @@
+//Calc.css
+
+.container
+{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    justify-content: center;
+    margin: 10;
+    border: 5px solid black;
+    padding: 10px;
+    color: black;
+}
+
+.container button
+{
+    width: 75px;
+    background-color: pink;
+    color: blue;
+}
+
+.container button.hover
+{
+    background-color: cyan;
+}
