@@ -2,3 +2,4 @@ npm install @react-navigation/native --global
 npm install @react-navigation/native-stack --global
 expo install react-native-screens
 expo install react-native-safe-area-context
+npx expo install react-native-web@~0.18.9 react-dom@18.1.0 @expo/webpack-config@^0.17.2
