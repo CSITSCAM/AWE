@@ -10,7 +10,7 @@ class ContactUs extends Component
     {
         return <>
                 <h1>If you have any queries:</h1>
-                <h2>Contact us at help@gmail.com</h2>
+                <h2>Contact us at model@gmail.com</h2>
             </>;
     }
 }
