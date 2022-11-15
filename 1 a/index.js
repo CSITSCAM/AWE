@@ -13,10 +13,10 @@ const r = ReactDOM.createRoot(document.getElementById('root'));
 
 
 const obj1={
-  name:'Sri',
+  name:'You',
   branch: 'CSIT',
   year: 4,
-  cgpa: 9.17
+  cgpa: 0.0
 }
 
 r.render(
