@@ -11,7 +11,7 @@ const r = ReactDOM.createRoot(document.getElementById('root'));
 
 
 const obj1={
-  name: 'Sri',
+  name: 'Model',
   branch: 'CSIT'
 }
 r.render(
