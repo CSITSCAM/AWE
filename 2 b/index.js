@@ -10,5 +10,5 @@ const r = ReactDOM.createRoot(document.getElementById('root'));
 
 
 r.render(
-  <Greet name="Sri"/>
+  <Greet name="Chachi"/>
 );
